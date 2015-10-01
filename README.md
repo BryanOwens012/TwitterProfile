@@ -7,4 +7,4 @@ This project allows you to grab any element of a Twitter user's profile, **given
 #### Note that Twitter only requires users to enter a full name and screen name in order to register. Therefore, the only data that'll probably be useful to you are:
 `getCreatedAt()`, `getFollowersCount()`, `getFriendsCount()`, `getID()`, `getScreenName()`, `getName()`, `getLanguage()`, `getTimeZone()`, `getVerified()`
 
-Note that `getFollowersList()` does not appear. If you want to get all the followers of a user, use project [`TwitterUserTweets`](https://github.com/BryanOwens012/TwitterUserTweets), and even [`TwitterIDToName`](https://github.com/BryanOwens012/TwitterIDToName) if neccessary.
+Note that `getFollowersList()` does not appear. If you want to get all the followers of a user, use project [`TwitterIDs`](https://github.com/BryanOwens012/TwitterIDs), and even [`TwitterIDToName`](https://github.com/BryanOwens012/TwitterIDToName) if neccessary.
